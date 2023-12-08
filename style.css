@@ -1,0 +1,22 @@
+/*
+Theme Name: https://dmtcl.gov.bd/
+Theme URI:#
+Author: tainer
+Author URI: #
+Description: my personal demo site for testing my codes...................
+Requires at least: 6.1
+Tested up to: 6.3
+Requires PHP: 5.6
+Version:1.0.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+Text Domain: abc
+Tags: govtsite, protfolio, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments, translation-ready, wide-blocks, block-styles, style-variations, accessibility-ready, blog, portfolio, news
+*/
+
+
+
+.nav2 .menu { float:left; display:block; }
+.nav2 .menu-item a{ color:white;
+ padding:10px;
+}
